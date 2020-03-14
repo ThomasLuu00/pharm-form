@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pharm-form/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pharm-form/static/js/main.9cbea693.chunk.js",
+    "main.js.map": "/pharm-form/static/js/main.9cbea693.chunk.js.map",
+    "runtime-main.js": "/pharm-form/static/js/runtime-main.0555ba07.js",
+    "runtime-main.js.map": "/pharm-form/static/js/runtime-main.0555ba07.js.map",
+    "static/js/2.f8384d6e.chunk.js": "/pharm-form/static/js/2.f8384d6e.chunk.js",
+    "static/js/2.f8384d6e.chunk.js.map": "/pharm-form/static/js/2.f8384d6e.chunk.js.map",
+    "index.html": "/pharm-form/index.html",
+    "precache-manifest.120e327cd061c2e553a6a6b4ae5063f5.js": "/pharm-form/precache-manifest.120e327cd061c2e553a6a6b4ae5063f5.js",
+    "service-worker.js": "/pharm-form/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pharm-form/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f8384d6e.chunk.js.LICENSE.txt": "/pharm-form/static/js/2.f8384d6e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pharm-form/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0555ba07.js",
+    "static/js/2.f8384d6e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9cbea693.chunk.js"
+  ]
+}
